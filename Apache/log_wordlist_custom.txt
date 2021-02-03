@@ -20,7 +20,7 @@
 /apache2/.logz/error.log
 /apache2/log/.access.log
 /apache2/log/.error.log
-/apache2/ligs/access.log
+/apache2/ligs/.access.log
 /apache2/ligs/.error.log
 /apache2/ligz/.access.log
 /apache2/ligz/.error.log
